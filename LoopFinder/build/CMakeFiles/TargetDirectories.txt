@@ -1,0 +1,6 @@
+/artefact/loops/LoopFinder/build/CMakeFiles/edit_cache.dir
+/artefact/loops/LoopFinder/build/CMakeFiles/rebuild_cache.dir
+/artefact/loops/LoopFinder/build/CMakeFiles/intrinsics_gen.dir
+/artefact/loops/LoopFinder/build/LoopFind/CMakeFiles/edit_cache.dir
+/artefact/loops/LoopFinder/build/LoopFind/CMakeFiles/rebuild_cache.dir
+/artefact/loops/LoopFinder/build/LoopFind/CMakeFiles/LLVMLoopFinder.dir
